@@ -1,0 +1,18 @@
+hi there i was written by JShi there i was added by JS
+hi there i was added by JShi there i was added by JS
+
+ hi there i was added by JS
+ hi there i was added by JS
+<<<<<<< HEAD
+=======
+ hi there i was added by JS
+
+ hi there i was added by JS
+ hi there i was added by JS
+ hi there i was added by JS
+ hi there i was added by JS
+
+ hi there i was added by JS
+
+>>>>>>> 7d0b5c093ad19d5b0ecd7b5359f5ea42256fe511
+ hi there i was added by JS

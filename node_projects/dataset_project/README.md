@@ -1,0 +1,1 @@
+This project is detailing the film locations in San Francisco, and analyzing data. Among topics covered, is when shooting film in SF was at its highest and if shooting film in SF has waned or increased.

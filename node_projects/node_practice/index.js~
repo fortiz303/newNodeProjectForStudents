@@ -1,0 +1,11 @@
+const _ = require('lodash');
+
+let myCompact = _.compact([0,3,false,'',5]);
+console.log('the compact method removes falseys: ' + myCompact);
+
+let myChunk = _.chunk([2,3,4,8,5],2);
+console.log('the Chunk method splits groups evenly);
+console.log(_.random(1,10));
+
+console.log('hello world');	
+
